@@ -1,0 +1,8 @@
+[submodule "submodules/submarines"]
+	path = submodules/submarines
+	url = https://github.com/youssefshaaban/submariens.git
+	branch = main
+[submodule "submodules/test"]
+	path = submodules/test
+	url = https://github.com/youssefshaaban/test2.git
+	branch = main
