@@ -1,0 +1,3 @@
+[submodule "submodule/submariens"]
+	path = submariens
+	url = https://github.com/youssefshaaban/submariens.git
